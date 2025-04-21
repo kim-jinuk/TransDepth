@@ -3,7 +3,7 @@
 ### 0. 개요
   본 프로젝트는 투명 객체에 대해 정확한 깊이 추정을 위해 지식 증류 기법을 응용하여 구현하였습니다.
   ![teaser](Asset/Qualitative.png)
-  ![teaser](Asset/Quantitative.png)
+  ![teaser](Asset/quantitative.png)
 ### 1. 데이터셋 파일 경로
 
   코드 경로: ./ <br>
