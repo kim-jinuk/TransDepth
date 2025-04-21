@@ -19,7 +19,13 @@
 
       conda create --name transdepth python=3.10 -y; conda activate transdepth
       conda install pip; pip install --upgrade pip
-      pip install -r requirements.txt
+      pip install keras
+      pip install pillow
+      pip install matplotlib
+      pip install scikit-learn
+      pip install scikit-image
+      pip install opencv-python
+      pip install pydot
       
 ****
 
