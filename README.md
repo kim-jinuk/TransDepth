@@ -1,10 +1,10 @@
 ## TransDepth
 
 ### 0. 개요
+  본 연구는 투명도, 빛의 굴절 흐름(refractive flow) 및 반사(reflect) 혹은 감쇠(attenuation) 등의 투명 객체 특성에 대해 분석하고 이를 기반으로 지식 증류(Knowledge Distillation) 기법을 응용하여 배경의 간섭으로부터 강인한 투명 객체 3차원 정보 추정 방법을 제안한다.
+
   ![teaser](Asset/Qualitative.png)
   ![teaser](Asset/quantitative.png)
-    
-  본 연구는 투명도, 빛의 굴절 흐름(refractive flow) 및 반사(reflect) 혹은 감쇠(attenuation) 등의 투명 객체 특성에 대해 분석하고 이를 기반으로 지식 증류(Knowledge Distillation) 기법을 응용하여 배경의 간섭으로부터 강인한 투명 객체 3차원 정보 추정 방법을 제안한다.
   
 ### 1. 데이터셋 파일 경로
 
